@@ -1,3 +1,2 @@
 pokerbots
 =========
-DON'T README
